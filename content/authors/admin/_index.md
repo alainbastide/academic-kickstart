@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Alain Bastide
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Mechanics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Université de La Réunion
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include fluid mechanics, heat transfers and Building Physics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Fluid Mechanics
+- Computational Fluid Mechanics
+- Topology Optimization
 
 education:
   courses:
